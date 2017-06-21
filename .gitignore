@@ -1,0 +1,6 @@
+/bin
+/build
+/.idea
+*.txt
+/.gradle
+/libs/*
